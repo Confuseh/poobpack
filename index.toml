@@ -5,6 +5,10 @@ file = "config/alexscaves-client.toml"
 hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "e9a4d7ac78a516d645e0c2d4f9bab329ef90331a8302e4eac3eaea48ea42179d"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "eed03a69cacac3a826fc07806ad069b0ae605fefcedab2b2b8fcfa060eb60ebb"
 metafile = true
