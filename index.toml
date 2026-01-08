@@ -5,6 +5,10 @@ file = "config/alexscaves-client.toml"
 hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
 [[files]]
+file = "config/alexsmobs.toml"
+hash = "7c01df704a66653df7793e4c6a856815be283106df03765f196c89bd962d463c"
+
+[[files]]
 file = "config/fancymenu/animation_controller_states.json"
 hash = "63552006b1e436cbab7a0e0566994e40f1ec86776c7b83a3f71d4917d7741e59"
 
@@ -926,6 +930,11 @@ hash = "471f6366615d29246e35c3193359ea479925ad98eb2beb1d59f0647f9896df3d"
 metafile = true
 
 [[files]]
+file = "mods/lmft.pw.toml"
+hash = "f93de38d5bb0a9d63585120d0531e6b366f6132e19582987582e638dd335ff4c"
+metafile = true
+
+[[files]]
 file = "mods/lodestonelib.pw.toml"
 hash = "dfb4b7c9a2085a665e87ebc3d60045e3173bb602e7b3de94e29d37168083345d"
 metafile = true
@@ -1098,6 +1107,11 @@ metafile = true
 [[files]]
 file = "mods/table-top-craft.pw.toml"
 hash = "c8597c7c0d8768c1dbef6cbcc7d45846933aa0528074bf41878e7cf0683f6a1f"
+metafile = true
+
+[[files]]
+file = "mods/tconjei.pw.toml"
+hash = "abce0d749f447733175881627cfcee289e429e9704279393842957babfd44462"
 metafile = true
 
 [[files]]
