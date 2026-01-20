@@ -310,11 +310,7 @@ hash = "d1d4cc1eed0e1d9830c270871aa54db5f6fdd9e9f5e8c918208603fd6a1e7156"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "a3d76980e12748e9e316cdb9274f9614d8f46eab429e7fcc6d40547d23ea75d2"
-
-[[files]]
-file = "config/fancymenu/customization/title_screen_layout_1.txt"
-hash = "a8f3e350955ed94ae67e5b593e64af9a6eeb2411f4a25fb9e884d50c16f9c863"
+hash = "cd10cae10b53066642e1fb076edf7a956c8abbe24940714f5e269b6189366709"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -327,6 +323,34 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 [[files]]
 file = "config/fancymenu/options.txt"
 hash = "5f9ff772228135fe6d8e56c5ece5a7bbacd04f1c46d489b92a14034ccbe59798"
+
+[[files]]
+file = "config/fancymenu/panoramas/legendarypoob/panorama/panorama_0.png"
+hash = "f57572a7dacb5f25d6563c5665f3765aa57cb7950e62578fa837b547053e1b51"
+
+[[files]]
+file = "config/fancymenu/panoramas/legendarypoob/panorama/panorama_1.png"
+hash = "f57572a7dacb5f25d6563c5665f3765aa57cb7950e62578fa837b547053e1b51"
+
+[[files]]
+file = "config/fancymenu/panoramas/legendarypoob/panorama/panorama_2.png"
+hash = "f57572a7dacb5f25d6563c5665f3765aa57cb7950e62578fa837b547053e1b51"
+
+[[files]]
+file = "config/fancymenu/panoramas/legendarypoob/panorama/panorama_3.png"
+hash = "f57572a7dacb5f25d6563c5665f3765aa57cb7950e62578fa837b547053e1b51"
+
+[[files]]
+file = "config/fancymenu/panoramas/legendarypoob/panorama/panorama_4.png"
+hash = "f57572a7dacb5f25d6563c5665f3765aa57cb7950e62578fa837b547053e1b51"
+
+[[files]]
+file = "config/fancymenu/panoramas/legendarypoob/panorama/panorama_5.png"
+hash = "f57572a7dacb5f25d6563c5665f3765aa57cb7950e62578fa837b547053e1b51"
+
+[[files]]
+file = "config/fancymenu/panoramas/legendarypoob/properties.txt"
+hash = "360e3baf6ba8acdd16620594c73a319af0de0bf42759c4c22467e8b20e91dc0a"
 
 [[files]]
 file = "config/fancymenu/slideshows/poobs/images/17d68d328c0fa519dd6678d2d00debe4.png"
@@ -629,6 +653,10 @@ file = "kubejs/server_scripts/example.js"
 hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
 
 [[files]]
+file = "kubejs/server_scripts/fisherman_compat.js"
+hash = "646ddcdee1a944d19a06374164f6ae38c3ff1c1243a2037be941631eace34eab"
+
+[[files]]
 file = "kubejs/server_scripts/nocopper.js"
 hash = "5af6d3e4ab8a492c92be570ef0025969cf8816f5fa9e3cf61de2c0bb7f7f0828"
 
@@ -743,6 +771,11 @@ metafile = true
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "d47b75b30e711de67e9de2ce05fd5979a89e5aacb5c0fd036c6f9466b1da2665"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
 
 [[files]]
@@ -1016,6 +1049,11 @@ hash = "51af4a776fd62c9349329b2b13e0c29f80f5d728bba7afce35e512dcf6f10beb"
 metafile = true
 
 [[files]]
+file = "mods/fishermans-haven.pw.toml"
+hash = "b09bd704919d0c112a32f2a644374018ec00937581ad40307a44f4406130f89e"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "376f8a190f00bd120193d7a665ebe1b03dfe329cc395f7d944f7216c1182c84d"
 metafile = true
@@ -1041,8 +1079,18 @@ hash = "2e42b3a809ec9b027e23714e01c255fe5111a9d4cd58fad114dd0f2aa75c0d7e"
 metafile = true
 
 [[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "22f7bd473bdc5add41d8afa0dc89dc442d77695a4675c3abf792c0981cc9ce9b"
+metafile = true
+
+[[files]]
 file = "mods/hexerei.pw.toml"
 hash = "6b75e21a40b8dcfe80a1d29ce4b8b3168b07f1329688de128f49bafb802d169b"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "b449e490600e89d6ce55b7e85f57073d799298f2b2501b2918745c4652b5b842"
 metafile = true
 
 [[files]]
@@ -1093,6 +1141,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-delight.pw.toml"
+hash = "a3774b5c23d616cbf1cf9322577e185b5cd7f16cc721ad5c60303d6145361415"
 metafile = true
 
 [[files]]
@@ -1176,6 +1229,11 @@ hash = "8b3dc6fa116657eba16f3550bd6468ba4aab315c35952d1de7c2d165033b3a2d"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+metafile = true
+
+[[files]]
 file = "mods/particular-reforged.pw.toml"
 hash = "3722f897bd3519b3bcf1bbb27eb26aa36ac9a581520056859d1ff1c931f3cbcc"
 metafile = true
@@ -1183,6 +1241,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "3a4c0fe9052e2c63f96a08066fb18ba08f501e06e8ffd6e2c9240e86eab21304"
 metafile = true
 
 [[files]]
