@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/refreshpack.yml"
-hash = "b772a912c99e641bfcf526286d19c8c54e77d02f5517ddc5516e872c84d2b273"
-
-[[files]]
 file = "config/alexscaves-client.toml"
 hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
@@ -614,7 +610,11 @@ hash = "0b44cdf789dafff5bacb22bd7a53e7c6b1d75ca60141d88a3c4524ba44eb415e"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "e9a4d7ac78a516d645e0c2d4f9bab329ef90331a8302e4eac3eaea48ea42179d"
+hash = "9ecea9653f11f2351a7911c75fcc0c3929ab12926be2bbbcf364ed442ed3f375"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "e216eacc44bb4d6127f11f75f1e60841d9bcc6d5c54535c6f1b22c8f2d3a459e"
 
 [[files]]
 file = "kubejs/README.txt"
